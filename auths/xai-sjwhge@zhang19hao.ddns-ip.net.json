@@ -1,0 +1,16 @@
+{
+  "access_token": "eyJ0eXAiOiJhdCtqd3QiLCJhbGciOiJFUzI1NiIsImtpZCI6Im9hdXRoMi1wcm9kdWN0aW9uLTIwMjYtMDItMTkifQ.eyJpc3MiOiJodHRwczovL2F1dGgueC5haSIsInN1YiI6ImMxYTZjMTljLTI5MGQtNGZiZi1iNjdmLTFhYTg0OWYzZmIwYyIsImF1ZCI6ImIxYTAwNDkyLTA3M2EtNDdlYS04MTZmLTRjMzI5MjY0YTgyOCIsImV4cCI6MTc4NDE4MjAzMywiaWF0IjoxNzg0MTYwNDMzLCJzY29wZSI6Im9wZW5pZCBwcm9maWxlIGVtYWlsIG9mZmxpbmVfYWNjZXNzIGdyb2stY2xpOmFjY2VzcyBhcGk6YWNjZXNzIiwicHJpbmNpcGFsX3R5cGUiOiJVc2VyIiwicHJpbmNpcGFsX2lkIjoiYzFhNmMxOWMtMjkwZC00ZmJmLWI2N2YtMWFhODQ5ZjNmYjBjIiwiY2xpZW50X2lkIjoiYjFhMDA0OTItMDczYS00N2VhLTgxNmYtNGMzMjkyNjRhODI4IiwianRpIjoiMmUwZGI5ZGMtOGVhMy00YmZmLThjYzAtNjEwMTU0NmUwODI5IiwidGVhbV9pZCI6ImUyYWFkODMwLWFjNjctNDNlZi04Zjc3LTkyNmI3ZWU4ODVmYiJ9.lcTvBPliA3haB6ZMlH4-LodVc5o88u5JFOVIGqzTou_v05CmaukUJVyA3g5nog1LUBUbNeEqrskIGC4XK_B9YQ",
+  "auth_kind": "oauth",
+  "base_url": "https://api.x.ai/v1",
+  "disabled": true,
+  "email": "sjwhge@zhang19hao.ddns-ip.net",
+  "expired": "2026-07-16T06:07:13Z",
+  "expires_in": 21600,
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiIsImtpZCI6Im9hdXRoMi1wcm9kdWN0aW9uLTIwMjYtMDItMTkifQ.eyJpc3MiOiJodHRwczovL2F1dGgueC5haSIsInN1YiI6ImMxYTZjMTljLTI5MGQtNGZiZi1iNjdmLTFhYTg0OWYzZmIwYyIsImF1ZCI6ImIxYTAwNDkyLTA3M2EtNDdlYS04MTZmLTRjMzI5MjY0YTgyOCIsImV4cCI6MTc4NDE4MjAzMywiaWF0IjoxNzg0MTYwNDMzLCJnaXZlbl9uYW1lIjoiRG5kIiwiZmFtaWx5X25hbWUiOiJOZG5mYiIsImVtYWlsIjoic2p3aGdlQHpoYW5nMTloYW8uZGRucy1pcC5uZXQiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZX0.pf06U3GCYT0oWa37vl4YtyXJXoH5UGwKWkYu_Y0BKpIjkFX9Ruk4SnNCTnVodOuTmNkSsm_RXi-issLE4u2Uog",
+  "last_refresh": "2026-07-16T00:07:13Z",
+  "refresh_token": "OU19ttvuXyBjVFUxs2xMqNQVS_MU_pVSo3tYBCFdCCFtjbBVtL6dU2JpZ4kb6leAzn2XKzbmFRa_0tA3Z6k_FQ",
+  "sub": "c1a6c19c-290d-4fbf-b67f-1aa849f3fb0c",
+  "token_endpoint": "https://auth.x.ai/oauth2/token",
+  "token_type": "Bearer",
+  "type": "xai"
+}
